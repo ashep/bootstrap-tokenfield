@@ -1,0 +1,40 @@
+{
+  "name": "@pytsite/bootstrap-tokenfield",
+  "main": "index.js",
+  "version": "0.12.0",
+  "author": {
+    "name": "sliptree",
+    "url": "https://github.com/sliptree"
+  },
+  "bugs": {
+    "url": "https://github.com/sliptree/bootstrap-tokenfield/issues"
+  },
+  "dependencies": {
+    "jquery": "3.x",
+    "jquery-ui": "1.x"
+  },
+  "description": "Advanced tagging/tokenizing plugin for input fields with a focus on keyboard and copy-paste support.",
+  "homepage": "http://sliptree.github.io/bootstrap-tokenfield/",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "bootstrap",
+    "tokenfield",
+    "tags",
+    "token",
+    "input",
+    "select",
+    "form"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery/blob/2.1.0/MIT-LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sliptree/bootstrap-tokenfield.git"
+  },
+  "title": "Bootstrap Tokenfield"
+}
